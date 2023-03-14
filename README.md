@@ -1,4 +1,4 @@
-# BATCH 7 Challenges day 2
+# BATCH 7 Challenges day 3
 
 SOAL :
 
